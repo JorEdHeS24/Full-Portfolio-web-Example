@@ -1,1 +1,1 @@
-mi primer README
+Portfolio website example of Gaming developer. 
